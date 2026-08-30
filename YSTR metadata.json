@@ -2,5 +2,5 @@
   "name": "YIELDSTREAM",
   "symbol": "$YSTR",
   "description": "$YSTR is the native utility and governance token powering Aura Network, a high-throughput Solana Layer 2 scaling solution designed to bring ultra-low latency and infinite scalability to decentralized applications. Built to eliminate network congestion and optimize state compression, Aura Network acts as a specialized execution layer for next-generation Web3 gaming, high-frequency DeFi, and real-time consumer dApps on Solana.",
-  "image": "https://github.com/morrobayer/token-assets/blob/main/%24YSTR.png"
+  "image": "main/%24YSTR.png"
 }

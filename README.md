@@ -1,3 +1,3 @@
 # token-assets
-$AURA
+$AURA.png
 
